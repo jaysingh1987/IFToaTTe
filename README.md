@@ -1,2 +1,2 @@
-# ift-oa-tt-e
+# IFToaTTe
 If this (or|and) then that (except)
